@@ -31,9 +31,13 @@ To improve logical thinking and master core C programming concepts through regul
 ## 🪜 Steps to Solve a Program
 
 1️⃣ Understand the Problem Statement 🧠
+
 2️⃣ Write the Algorithm 📝
+
 3️⃣ Decide the Programming Language 💻
+
 4️⃣ Write the Code ⌨️
+
 5️⃣ Test the Program ✅🧪
 
 ---

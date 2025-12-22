@@ -1,29 +1,43 @@
-🔹 C-Logic-Building 🔹
 
-💻 A repository dedicated to strengthening programming logic using the C language.
+🔹 **C-Logic-Building** 🔹
+💻 *Strengthen your programming logic using the C language.*
 
-📘 This repo contains:
+---
 
-  ✅ Basic to advanced C programs
-  🧠 Logic building problems & solutions
-  🔁 Loops, conditions, arrays, functions & pointers
-  🧩 Practice questions for problem-solving
-  🚀 Clean, simple, and well-commented code
+📘 **About This Repository**
+This repository is dedicated to building strong logic and core concepts in C programming.
 
-🎯 Goal:
-      To improve logical thinking and master core C programming concepts through regular practice.
+---
 
-🪜 Steps to Solve a Program 🪜
+📂 **What This Repo Contains:**
+✅ Basic to advanced C programs
+🧠 Logic building problems & solutions
+🔁 Loops, conditions, arrays, functions & pointers
+🧩 Practice questions for problem-solving
+🚀 Clean, simple & well-commented code
 
-  🔹 Step 1️⃣: Understand the Problem Statement 🧠
-  🔹 Step 2️⃣: Write the Algorithm 📝
-  🔹 Step 3️⃣: Decide the Programming Language 💻
-  🔹 Step 4️⃣: Write the Code ⌨️
-  🔹 Step 5️⃣: Test the Program ✅🧪
+---
 
-🌟 Follow these steps to build correct and efficient programs! 🚀
+🎯 **Goal**
+To improve logical thinking and master core C programming concepts through regular practice.
 
-👨‍💻 Perfect for:
-  🎓 Students | 🧑‍💻 Beginners | 💡 Coding enthusiasts
+---
 
-🌟 Learn • Practice • Build Logic • Master C 🌟
+🪜 **Steps to Solve a Program** 🪜
+🔹 **Step 1️⃣:** Understand the Problem Statement 🧠
+🔹 **Step 2️⃣:** Write the Algorithm 📝
+🔹 **Step 3️⃣:** Decide the Programming Language 💻
+🔹 **Step 4️⃣:** Write the Code ⌨️
+🔹 **Step 5️⃣:** Test the Program ✅🧪
+
+---
+
+👨‍💻 **Perfect For:**
+🎓 Students | 🧑‍💻 Beginners | 💡 Coding Enthusiasts
+
+---
+
+🌟 **Motto** 🌟
+✨ Learn • Practice • Build Logic • Master C ✨
+
+---

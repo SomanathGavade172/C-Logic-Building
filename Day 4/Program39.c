@@ -5,7 +5,7 @@
 //  Function Name       :   Display 
 //  Description         :   This Application is used to Display numbers from 5 to 1 in reverse order on the screen.
 //  Input               :   Integer
-//  Output              :   Integer
+//  Output              :   NONE
 //  Author              :   Gavade Somanath Vilas
 //  Date                :   24/12/2025
 //
@@ -38,4 +38,5 @@ int main()
     Display(iFrequency);
 
     return 0;
+
 }

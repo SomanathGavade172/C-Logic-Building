@@ -45,7 +45,7 @@ int main()
     printf("Enter a Number : \n");
     scanf("%d", &iValue);
 
-    bRet = CheckDivisible(iValue);
+    bRet = CheckDivisible(iValue);        //  Function Call.
 
     if(bRet == true)
     {
@@ -57,4 +57,5 @@ int main()
     }
 
     return 0;
+
 }

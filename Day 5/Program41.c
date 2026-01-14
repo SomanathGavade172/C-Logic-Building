@@ -31,7 +31,8 @@ void Display()
 
 int main()
 {
-    Display();
+    Display();    //  Function Call.
 
     return 0;
+
 }

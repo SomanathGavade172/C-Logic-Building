@@ -24,7 +24,7 @@ int SumFactors(int iNo)
             iSum = iSum + iCnt;
         }
     }
-
+    
     return iSum;
 }
 
@@ -48,4 +48,5 @@ int main()
     printf("Summation of Factors : %d\n", iRet);
 
     return 0;
+
 }

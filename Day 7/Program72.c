@@ -24,7 +24,7 @@ void Display(int ptr[])
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  Application Name    :   Array Display Using Pointer
-//  Description         :   This application accepts multiple values from the user, stores them in an array, and displays the elements
+//  Description         :   This application accepts multiple values from the user, stores them in an array, & displays the elements
 //                          using pointer arithmetic.
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -44,4 +44,5 @@ int main()
     Display(Arr);
 
     return 0;
+
 }

@@ -54,7 +54,8 @@ int main()
     }
 
     printf("Even elements are : \n");
-    EvenDisplay(ptr, iLength);
+    EvenDisplay(ptr, iLength);        // Function Call.
 
     return 0;
+
 }

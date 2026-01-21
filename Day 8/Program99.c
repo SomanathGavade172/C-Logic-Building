@@ -36,7 +36,8 @@ int main()
     printf("Enter a Number : \n");
     scanf("%d", &iValue);
 
-    Display(iValue);
+    Display(iValue);     // Function Call.
 
     return 0;
 }
+

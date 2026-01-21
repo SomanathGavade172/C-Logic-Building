@@ -42,6 +42,7 @@ int main()
     printf("Enter the number of Elements : \n");
     scanf("%d", &iLength);
 
+    // Allocate Dynamic memory.
     ptr = (int *) malloc(iLength * sizeof(int));
 
     printf("Enter the Elements : \n");
@@ -51,11 +52,13 @@ int main()
         scanf("%d", &ptr[iCnt]);
     }
 
-    iRet = Addition(ptr, iLength);
+    iRet = Addition(ptr, iLength);    // Function Call.
 
     printf("Addition is : %d\n", iRet);
 
+    // Deallocate the memory.
     free(ptr);
 
     return 0;
+
 }

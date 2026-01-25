@@ -44,7 +44,8 @@ int main()
         scanf("%d", &Arr[iCnt]);
     }
 
-    Display(Arr);
+    Display(Arr);        // Function Call.
 
     return 0;
+
 }

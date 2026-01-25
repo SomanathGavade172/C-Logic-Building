@@ -17,6 +17,7 @@ float Average(int Arr[], int iSize)
 {
     int iCnt = 0, iSum = 0;
 
+    // Calculate the avarage.
     for(iCnt = 0; iCnt < iSize; iCnt++)
     {
         iSum = iSum + Arr[iCnt];
@@ -59,4 +60,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }

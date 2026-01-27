@@ -20,8 +20,15 @@ int main()
     printf("Enter the number of elements : \n");
     scanf("%d", &iLength);
 
+    // Allocate the memory.
     ptr = (int *) malloc(iLength * sizeof(int));
 
+    if(ptr == NULL)
+    {
+        printf("Memory allocation failed\n");
+        return;
+    }
+    
     printf("Enter the elements : \n");
     
     for(iCnt = 0; iCnt < iLength; iCnt++)
@@ -36,7 +43,9 @@ int main()
         printf("%d\n", ptr[iCnt]);
     }
 
+    //  Deallocate the memory.
     free(ptr);
 
     return 0;
+
 }

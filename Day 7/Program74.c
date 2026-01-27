@@ -20,11 +20,14 @@ int main()
     printf("Enter the number of elemenets : \n");
     scanf("%d", &iLength);
 
+    // Allocate dynamic memory.
     ptr = (int *) malloc(iLength * sizeof(int));
 
     //  Logic
 
+    // Deallocate the memory.
     free(ptr);
 
     return 0;
+
 }

@@ -20,6 +20,7 @@ int main()
     printf("Enter the number of elements : \n");
     scanf("%d", &iLength);
 
+    //  Allocate dynamic memory.
     ptr = (int *) malloc(iLength * sizeof(int));
 
     printf("Enter the elements : \n");
@@ -29,7 +30,9 @@ int main()
         scanf("%d", &ptr[iCnt]);
     }
 
+    //  Deallocate the memory.
     free(ptr);
 
     return 0;
+
 }

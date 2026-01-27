@@ -46,6 +46,7 @@ int main()
     printf("Enter the number of Elements : \n");
     scanf("%d", &iLength);
 
+    // Allocate the memory.
     ptr = (int *) malloc(iLength * sizeof(int));
 
     printf("Enter the Elements : \n");
@@ -55,11 +56,13 @@ int main()
         scanf("%d", &ptr[iCnt]);
     }
 
-    iRet = Maximum(ptr, iLength);
+    iRet = Maximum(ptr, iLength);    //  Function Call.
 
     printf("Maximum Number is : %d\n", iRet);
 
+    // Deallocate the memory.
     free(ptr);
 
     return 0;
+
 }

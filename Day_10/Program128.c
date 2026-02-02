@@ -29,6 +29,7 @@ void Display(int iNo)
         iNo = -iNo;
     }
 
+    // print characters
     for(iCnt = 1, ch = 'A'; iCnt <= iNo; iCnt++, ch++)
     {
         printf("%c\t", ch);
@@ -54,3 +55,4 @@ int main()
 
     return 0;
 }
+

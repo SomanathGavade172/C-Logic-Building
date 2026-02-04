@@ -54,9 +54,11 @@ int main()
 {
     int iValue1 = 0, iValue2 = 0;
 
+    // Accept number of Row
     printf("Enter number of Rows : \n");
     scanf("%d", &iValue1);
 
+    // Accept number of Coloum
     printf("Enter number of Columns : \n");
     scanf("%d", &iValue2);
 
@@ -64,3 +66,4 @@ int main()
 
     return 0;
 }
+

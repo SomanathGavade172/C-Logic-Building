@@ -27,8 +27,10 @@ void Display(int iRow, int iCol)
 {
     int i = 0, j = 0;
 
+    // Outer loop controls number of rows
     for(i = 1; i <= iRow; i++)
     {
+        // Inner loop prints the row number for each column
         for(j = 1; j <= iCol; j++)
         {
             if((i == 1) || (i == iRow))
@@ -66,3 +68,4 @@ int main()
 
     return 0;
 }
+

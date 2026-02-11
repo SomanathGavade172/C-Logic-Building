@@ -20,6 +20,7 @@ int main()
     printf("Enter your Name : \n");
     scanf("%[^'\n']s", Arr);       // Reads input until Enter is pressed
 
+    // Check condition
     while(*ptr != '\0')
     {
         printf("%c\n", *ptr);
@@ -28,3 +29,4 @@ int main()
  
     return 0;
 }
+

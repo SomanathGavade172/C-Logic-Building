@@ -16,6 +16,7 @@ int strlenX(char *ptr)
 {
     int iCount = 0;
 
+    // Check condition
     while(*ptr != '\0')
     {
         iCount++;
@@ -46,3 +47,4 @@ int main()
  
     return 0;
 }
+

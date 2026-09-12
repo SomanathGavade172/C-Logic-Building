@@ -1,0 +1,39 @@
+// *    *   *   *  
+
+#include<stdio.h>
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+//  
+//  Function Name   :   DisplayTimeTable
+//  Description     :   Displays the exam time based on the student’s standard.
+//  Input           :   Int
+//  Output          :   None
+//  Auther          :   Gavade Somanath Vilas
+//  Date            :   09/05/2026
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Function Defination
+void DisplayI()
+{
+    int iCnt = 0;
+
+    for(iCnt = 1; iCnt <= 4; iCnt++)
+    {
+        printf("*\n");
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//
+//  Application Name    :   Area of Circle
+//  Description         :   This application is used to calculate the area of a circle.
+//
+//////////////////////////////////////////////////////////////////////////////////////////
+
+int main()
+{
+    DisplayI();         // Function Call.
+
+    return 0;
+}
